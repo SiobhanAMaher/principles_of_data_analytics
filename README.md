@@ -16,5 +16,6 @@ By Siobhán Maher
 - Python
 - Git
 - GitHub
+- Codespaces
 - Jupyter
 
